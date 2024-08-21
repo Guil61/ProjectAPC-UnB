@@ -155,37 +155,51 @@ print("Siga as seguintes instruções: ")
 
 frase = input("Insira a frase que deseja traduzir: ")
 
-while len(frase) <= 4 or texto_port.find(frase) == -1:
+while len(frase) <= 4 or (texto_port.find(frase) == -1 and texto_ticuna.find(frase) == -1):
     if len(frase) <= 4:
         print("Frase muito curta, por favor, tente novamente.")
-    if texto_port.find(frase) == -1:
+    elif texto_port.find(frase) == -1:
         print("A frase não está no texto, por favor, tente novamente.")
-    if escolha != 1 or escolha != 2 or escolha != 9:
+    elif escolha != 1 or escolha != 2 or escolha != 9:
         print("Opção inválida, tente novamente.")
 
     frase = input("Insira a frase que deseja traduzir: ")
 
 
-if escolha == 1: 
+if escolha == '1':       
+    num = texto_port[texto_port.find(frase) - 3] + texto_port[texto_port.find(frase) - 2]
 
-    #if texto_port[texto_port.find(frase) + len(frase) + 2] != '/' and texto[texto.find(frase) + len(frase) + 1] != '/':
-        #frase = 
-        #print("A frase está incompleta. A frase completa ")
-        
-    num_frase = texto_port[texto_port.find(frase) - 3] + texto_port[texto_port.find(frase) - 2]
-    num_ticuna = texto_ticuna.find(num_frase)
-    prox_num_ticuna = texto_ticuna.find(num_frase + 1)
-    frase_traduzida =  texto_ticuna[num_ticuna : len(prox_num_ticuna - num_ticuna)] #aqui tem que pegar do texto em ticuna
+    num_ticuna = int(texto_ticuna.find(num))
+
+    prox_num_ticuna = int(texto_ticuna.find(str(int(num) + 1)))
+
+    tam_frase_ticuna = prox_num_ticuna - num_ticuna
+
+    frase_traduzida =  texto_ticuna[num_ticuna + 2 : num_ticuna + tam_frase_ticuna - 1] 
 
     print(frase_traduzida)
 
-#if escolha == 2:
+
+
+if escolha == '2':
+    num = texto_ticuna[texto_ticuna.find(frase) - 3] + texto_ticuna[texto_ticuna.find(frase) - 2]
+
+    num_port = int(texto_port.find(num))
+
+    prox_num_port = int(texto_port.find(str(int(num) + 1)))
+
+    tam_frase_port = prox_num_port - num_port
+
+    frase_traduzida =  texto_port[num_port + 2 : num_port + tam_frase_port - 1] 
+
+    print(frase_traduzida)
 
 
 
-
+#if texto_port[texto_port.find(frase) + len(frase) + 2] != '/' and texto[texto.find(frase) + len(frase) + 1] != '/':
+    #frase = 
+    #print("A frase está incompleta. A frase completa ")
     
-#usar lógica para trabalhar com frases incompletas ou mais de uma frase
-#retornar erro e pedir que coloque a frase correta
+#usar lógica para trabalhar com frases incompletas
 #falar que está parcialmente dentro da frase
 #mais de uma frase - trazer a relação das duas
