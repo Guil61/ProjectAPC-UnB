@@ -75,6 +75,8 @@ O início da história
 
 texto_ticuna = """
 TORÜ DUǕ'ǕGÜ
+Nori arü ügü ga ore ga nucüma'ǖ ga torü ga na nhunhaacü yi'i'ǖ.
+Norü ügü tchiga 
 /1 Nüma ga Ngutapa ga naãne nama'ã ya ĩĩtchicü,
 /2 rü nge'eǖ rü na tauma i ta'acü i nhũma na yema i na i aẽǖrü'ǖ.
 /3 Rü yiĩ'ǖ ngema na yamareǖ ga Ngutapa.
