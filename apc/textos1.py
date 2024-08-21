@@ -152,7 +152,7 @@ texto_instrucoes ="""
 #                                                #
 #              INSTRUÇÕES DO PROGRAMA            #
 #                                                #
-# Este programa faz o seguinte:                  #
+#   Este programa faz o seguinte:                #
 # - [Descrição da funcionalidade 1]              #
 # - [Descrição da funcionalidade 2]              #
 # - [Descrição da funcionalidade 3]              #
