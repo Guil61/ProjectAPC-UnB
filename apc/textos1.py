@@ -4,7 +4,7 @@ Aqui começa a história do tempo dos antigos
 O início da história 
 /// 01 Nüma ga Ngutapa ga naãne nama'ã ya ĩĩtchicü,
 /// 02 rü nge'eǖ rü na tauma i ta'acü i nhũma na yema i na i aẽǖrü'ǖ.
-///03 Rü yiĩ'ǖ ngema na yamareǖ ga Ngutapa.
+/// 03 Rü yiĩ'ǖ ngema na yamareǖ ga Ngutapa.
 /// 04 I nori'ǖtchicü,
 /// 05 ingeguma,
 /// 06 rü norü tchiura ta ngemana yaǖ,
@@ -47,7 +47,7 @@ O início da história
 /// 43 rü ngerata ni'ĩ ga naẽga,
 /// 44 natütü guma maẽ,
 /// 45 rü na taütchirema.
-///  46 Rü natürü yiema i daugu rü na i'ra.
+/// 46 Rü natürü yiema i daugu rü na i'ra.
 /// 47 Rü yeguma i nayau ga maẽ,
 /// 48 rü ngigürügü taũǖ tama ni'ĩ nua.
 /// 49 cuǖna ngẽẽǖ ngigürügü:
