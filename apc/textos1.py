@@ -2,15 +2,15 @@ texto_port = """
 NOSSO POVO
 Aqui começa a história do tempo dos antigos 
 O início da história 
-/1 Antes do mundo existir,
-/2 Ngutapa já existia.
-/3 Ele não teve pai nem mãe.
-/4 Mapana,
-/5 a mulher de Ngutapa,
-/6 se criou junto com ele.
-/7 No mesmo lugar viviam também Baia e sua mulher.
-/8 Baia era parente de Ngutapa.
-/9 No lugar onde esses quatro se criaram é onde ficava a montanha Taiwegüne,
+/01 Antes do mundo existir,
+/02 Ngutapa já existia.
+/03 Ele não teve pai nem mãe.
+/04 Mapana,
+/05 a mulher de Ngutapa,
+/06 se criou junto com ele.
+/07 No mesmo lugar viviam também Baia e sua mulher.
+/08 Baia era parente de Ngutapa.
+/09 No lugar onde esses quatro se criaram é onde ficava a montanha Taiwegüne,
 /10 E no igarapé Tonetü.
 /11 Naquele tempo,
 /12 a terra ainda estava se formando.
@@ -77,15 +77,15 @@ texto_ticuna = """
 TORÜ DUǕ'ǕGÜ
 Nori arü ügü ga ore ga nucüma'ǖ ga torü ga na nhunhaacü yi'i'ǖ.
 Norü ügü tchiga 
-/1 Nüma ga Ngutapa ga naãne nama'ã ya ĩĩtchicü,
-/2 rü nge'eǖ rü na tauma i ta'acü i nhũma na yema i na i aẽǖrü'ǖ.
-/3 Rü yiĩ'ǖ ngema na yamareǖ ga Ngutapa.
-/4 I nori'ǖtchicü,
-/5 ingeguma,
-/6 rü norü tchiura ta ngemana yaǖ,
-/7 rü ya Baia rü ta cünanangemaǖ rü norü tchiura rü ta nangemaǖ.
-/8 Erü nüma ga Baia rü Ngutapa tanü'ǖ ni'ĩ rü wü'iva na yae.
-/9 Nucüma ngeguma rü numa ga Ngutapa rü na tauǖma ga norü bue nu'ǖ tayema yerü tauguma nügüga nidau,
+/01 Nüma ga Ngutapa ga naãne nama'ã ya ĩĩtchicü,
+/02 rü nge'eǖ rü na tauma i ta'acü i nhũma na yema i na i aẽǖrü'ǖ.
+/03 Rü yiĩ'ǖ ngema na yamareǖ ga Ngutapa.
+/04 I nori'ǖtchicü,
+/05 ingeguma,
+/06 rü norü tchiura ta ngemana yaǖ,
+/07 rü ya Baia rü ta cünanangemaǖ rü norü tchiura rü ta nangemaǖ.
+/08 Erü nüma ga Baia rü Ngutapa tanü'ǖ ni'ĩ rü wü'iva na yae.
+/09 Nucüma ngeguma rü numa ga Ngutapa rü na tauǖma ga norü bue nu'ǖ tayema yerü tauguma nügüga nidau,
 /10 ga namamaã rü na yaemare.
 /11 Ngeguma yema namamare i ya'ĩ,
 /12 rü tauguma i buǖã.
