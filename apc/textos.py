@@ -164,6 +164,9 @@ texto_instrucoes = """
 #                                                                              #
 # 5- Na entrada da frase, não use caracteres como "/", "-", etc.               #
 #                                                                              #
+# 6- Não utilize espaços " " no começo e no final das frases que deseja        #                                                                    
+# traduzir. Coloque apenas a frase pura.                                       #                         
+#                                                                              #
 # 6 - Selecione a opção correta para fazer a correlação.                       #
 #                                                                              #
 ################################################################################
