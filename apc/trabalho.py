@@ -1,4 +1,4 @@
-from textos1 import texto_port, texto_ticuna, texto_instrucoes
+from textos import texto_port, texto_ticuna, texto_instrucoes
 
 
 print("Seja bem-vindo(a) ao nosso correlacionador de frases português/ticuna.\n")
