@@ -149,23 +149,21 @@ Norü ügü tchiga
                 """
 
 
-texto_instrucoes =""" 
-##################################################
-#                                                #
-#              INSTRUÇÕES DO PROGRAMA            #
-#                                                #
-#   Este programa faz o seguinte:                #
-# - [Descrição da funcionalidade 1]              #
-# - [Descrição da funcionalidade 2]              #
-# - [Descrição da funcionalidade 3]              #
-#                                                #
-# Como usar:                                     #
-# 1...                                           #
-#                                                #
-#                                                #
-#                                                #
-#                                                #
-#                                                #
-#                                                #
-##################################################
+texto_instrucoes = """
+################################################################################
+# 1- ESTE PROGRAMA NÃO É UM TRADUTOR PROPRIAMENTE DITO,                        #
+# TRATA-SE DE UM CORRELACIONADOR ENTRE FRASES EM PORTUGUÊS                     #
+# E NA LINGUAGEM TICUNA.                                                       #
+#                                                                              #
+# 2- Para mais informações sobre ambos os textos e as frases                   #
+# relacionadas, abra o arquivo textos1.py                                      #
+#                                                                              #
+# 3- Execute o programa e siga as instruções como desejar.                     #
+#                                                                              #
+# 4- Traduza uma frase por vez.                                                #
+#                                                                              #
+# 6- Na entrada da frase que deseja traduzir, não use caracteres como "/", "-",#
+# etc.                                                                         #
+################################################################################
 """
+
