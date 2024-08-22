@@ -146,7 +146,7 @@ Norü ügü tchiga
 /67 Rü yeguma ga nüma rü marü taguma i natchi rü nüma ga naãpüǖ rü marü manarütchaapüǖ,
 /68 rü yemaãcü tama ini'ĩu rü ini waatchigü,
 /69 Rü nhumata inangu ga ĩpatawa ga nayaanegü.
-                """
+"""
 
 
 texto_instrucoes = """
@@ -156,14 +156,16 @@ texto_instrucoes = """
 # E NA LINGUAGEM TICUNA.                                                       #
 #                                                                              #
 # 2- Para mais informações sobre ambos os textos e as frases                   #
-# relacionadas, abra o arquivo textos1.py                                      #
+# relacionadas, abra o arquivo textos.py.                                      #
 #                                                                              #
-# 3- Execute o programa e siga as instruções como desejar.                     #
+# 3- Na estrada da frase, não use espaços e nem pule linhas.                   #
 #                                                                              #
 # 4- Traduza uma frase por vez.                                                #
 #                                                                              #
-# 6- Na entrada da frase que deseja traduzir, não use caracteres como "/", "-",#
-# etc.                                                                         #
+# 5- Na entrada da frase, não use caracteres como "/", "-", etc.               #
+#                                                                              #
+# 6 - Selecione a opção correta para fazer a correlação.                       #
+#                                                                              #
 ################################################################################
 """
 
