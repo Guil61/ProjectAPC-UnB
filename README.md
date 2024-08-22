@@ -1,6 +1,10 @@
 # Projeto APC - UNB 
 ## Correlacionador de frases - português/ticuna
 
+### :smile: Integrantes do grupo
+- André Guil
+- Gabriella Caetano
+- Letícia Souza
 ### :exclamation: Problema identificado
 Os indígenas da etnia Ticuna são um dos poucos que ainda preservam sua língua original dentre
 todas as etnias indígenas no Brasil. A língua Ticuna é falada por mais de 40 mil pessoas, ou seja,
